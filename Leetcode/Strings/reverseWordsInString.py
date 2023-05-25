@@ -1,0 +1,11 @@
+from typing import Self
+
+
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        words = s.split()  
+        words.reverse()
+        return ' '.join(words)
+    
+    str =  "the sky is blue"
+    print(reverseWords(Self, str))
