@@ -5,10 +5,6 @@ def isPrime(num):
             return False
     return True
 
-
-
-
-
 number = 6
 res = isPrime(number)
 if res == True:

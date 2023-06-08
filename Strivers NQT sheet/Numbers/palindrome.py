@@ -1,5 +1,5 @@
 def palindromeORnot(num):
-    nums = list(str(num))
+    nums = list(str(num)) 
     i, j = 0 , len(nums)-1
     while i < j:
         if nums[i] != nums[j]:
