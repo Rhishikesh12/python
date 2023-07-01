@@ -1,5 +1,7 @@
 #2305
 
+# https://www.youtube.com/watch?v=yG4QtNI3m3Y
+
 class Solution:
     def distributeCookies(self, cookies: List[int], k: int) -> int:
         n = len(cookies)
