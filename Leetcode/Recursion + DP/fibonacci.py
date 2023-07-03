@@ -15,7 +15,7 @@ def fib2(n,dp):
     dp[n] = fib2(n-1, dp) + fib2(n-2, dp)
     return dp[n]
 
-# using DP tabulation:
+# using DP Tabulation:
 def fib3(n, dp):
     dp[0] = 0
     dp[1] = 1
