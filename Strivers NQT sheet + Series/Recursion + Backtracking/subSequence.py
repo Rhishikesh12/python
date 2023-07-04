@@ -29,3 +29,7 @@ subSequences(0, arr, [], len(arr), subsequences)
 
 for subseq in subsequences:
     print(subseq)
+
+
+# Time complexity: O(2^n)
+# Space complexity: O(n)
