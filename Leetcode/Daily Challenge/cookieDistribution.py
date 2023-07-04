@@ -1,4 +1,4 @@
-#2305
+#2305 (Medium)
 
 # https://www.youtube.com/watch?v=yG4QtNI3m3Y
 

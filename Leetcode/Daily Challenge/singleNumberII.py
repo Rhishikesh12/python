@@ -1,4 +1,4 @@
-# Leetcode #137
+#137 (Medium)
 
 class Solution:
     def singleNumber(self, nums):
